@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahas!
+🎓 2nd Year Engineering Student  
+📌 Aspiring **Data Analyst**  
+📊 Passionate about **Data Analytics, Power BI, DBMS, and Python**
 
-<!--
-**Sahas-2417/Sahas-2417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Tools
+- **Power BI** (DAX, Data Modeling, Dashboarding)
+- **Excel** (Pivot Tables, Cleaning, Analysis)
+- **Python** (Pandas, NumPy, Visualization)
+- **DBMS** (SQL Queries, ERD, Normalization)
 
-Here are some ideas to get you started:
+## Featured Projects
+### Power BI – Standard Store Sales Dashboard  
+• Data Cleaning • DAX Measures •  Forecasting  
+➡️ [View Repository](https://github.com/Sahas-2417/Standard_Store_Sales_PowerBI_Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- Building more dashboards (Excel + Power BI)  
+
+## Connect With Me
+🔗 LinkedIn: *www.linkedin.com/in/sahasbochare*  
+📧 Email: *sahasbochare24@gmail.com*
