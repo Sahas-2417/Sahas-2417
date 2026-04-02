@@ -55,9 +55,9 @@ Interactive sales dashboard built in Power BI to analyze sales, profit, regional
 
 ## 📈 GitHub Stats
 
-![Sahas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahas2417&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-2417&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas2417&layout=compact&theme=tokyonight)
 
 ---
 
