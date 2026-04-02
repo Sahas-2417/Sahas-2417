@@ -14,7 +14,7 @@
 
 ➡️ [View Repository](https://github.com/Sahas-2417/Student_Lifestyle_Academic_Performance_EDA)
 
-### Power BI – Standard Store Sales Dashboard  
+## Power BI – Standard Store Sales Dashboard  
 • Data Cleaning • DAX Measures •  Forecasting  
 
 ➡️ [View Repository](https://github.com/Sahas-2417/Standard_Store_Sales_PowerBI_Project)
