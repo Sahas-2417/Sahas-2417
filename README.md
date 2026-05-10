@@ -33,15 +33,19 @@ Survey-based Exploratory Data Analysis project to understand how study habits, s
 
 ---
 
-### 🛒 Power BI – Standard Store Sales Dashboard
-Interactive sales dashboard built in Power BI to analyze sales, profit, regional performance, and forecast future sales trends.
+### ✨ AuraWrite AI – AI LinkedIn Content Generator
 
-🔹 Data Cleaning  
-🔹 DAX Measures  
-🔹 Dashboard Design  
-🔹 Sales Forecasting  
+AI-powered web application that transforms simple bullet points into professional and engaging LinkedIn posts using the Gemini API.
 
-➡️ [View Repository](https://github.com/Sahas-2417/Standard_Store_Sales_PowerBI_Project)
+🔹 AI Content Generation  
+🔹 Gemini API Integration  
+🔹 Full Stack Deployment  
+🔹 Responsive Modern UI  
+🔹 FastAPI + React + Vite
+
+➡️ [Live Demo](https://aurawrite-ai.vercel.app)  
+➡️ [View Repository](https://github.com/Sahas-2417/aurawrite-ai)
+
 
 ---
 
