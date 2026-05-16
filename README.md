@@ -126,9 +126,13 @@ I’m especially interested in:
 
 ## GitHub Stats
 
-![Sahas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight" alt="Sahas's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-2417&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-2417&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
