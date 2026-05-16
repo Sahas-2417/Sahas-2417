@@ -99,13 +99,6 @@ This project helped me practice KPIs, slicers, charts, and basic sales analysis.
 
 ---
 
-### Sahas Hackcrypt
-A JavaScript-based project created while learning and experimenting with web technologies.
-
-**Tech/Focus:** JavaScript, Web Development
-
----
-
 ## Currently Learning
 
 - Power BI dashboard design
@@ -141,8 +134,8 @@ I’m especially interested in:
 
 ## Connect With Me
 
-- GitHub: Sahas-2417
-- LinkedIn: Add your LinkedIn profile link here
+- GitHub: [Sahas-2417](https://github.com/Sahas-2417)
+- LinkedIn: [Sahas Bochare](https://www.linkedin.com/in/sahasbochare)
 
 ---
 
