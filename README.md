@@ -1,10 +1,10 @@
 # Hi, I'm Sahas 👋
 
-I'm a third-year IT undergraduate who is currently exploring data analytics, business intelligence, and practical tech projects.
+I'm a third-year IT undergraduate currently learning and building projects in data analytics, business intelligence, and practical tech.
 
-I like building projects that help me understand concepts better instead of just learning them theoretically. Most of my current work is around Power BI dashboards, Excel analytics, EDA projects, Python, and a few web/AI-based projects.
+Most of my work is around Power BI dashboards, Excel analytics, EDA, Python, and a few web-based projects. I like learning by building small but useful projects instead of only studying concepts theoretically.
 
-Right now, I'm focusing on improving my project portfolio, writing better documentation, and learning how data can be used to solve real business problems.
+Right now, I'm focusing on improving my GitHub profile, writing better project documentation, and building a stronger portfolio for internships and entry-level analytics roles.
 
 ---
 
@@ -12,108 +12,97 @@ Right now, I'm focusing on improving my project portfolio, writing better docume
 
 - 🎓 Third-year IT undergraduate
 - 📊 Interested in Data Analytics, Business Analytics, and Business Intelligence
-- 🧠 Learning by building projects and working with real datasets
-- 🛠️ Currently improving my skills in Power BI, Excel, SQL, Python, and dashboard design
+- 🛠️ Working with Power BI, Excel, SQL, Python, and dashboard design
+- 📁 Building projects using real datasets and practical use cases
 - 🤝 Open to internships, collaborations, and learning opportunities
 
 ---
 
 ## Skills & Tools
 
-### Data & Analytics
-- Excel
-- Power BI
-- SQL
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis
-- Dashboard Development
-- Business Insights
+**Data & Analytics:**  
+Excel, Power BI, SQL, Data Cleaning, Data Visualization, EDA, Dashboard Development, Business Insights
 
-### Programming & Tech
-- Python
-- JavaScript
-- HTML
-- FastAPI
-- Google Colab
-- GitHub
+**Programming & Tech:**  
+Python, JavaScript, HTML, FastAPI, Google Colab, GitHub
 
-### Other Skills
-- Communication
-- Teamwork
-- Community Management
-- Event Coordination
-- Planning and Execution
+**Other Skills:**  
+Communication, Teamwork, Community Management, Event Coordination, Planning and Execution
 
 ---
 
 ## Projects
 
 ### AuraWrite AI
-An AI-powered content generation platform that converts simple bullet points into professional LinkedIn-style posts.
+An AI-based writing assistant that helps users turn simple bullet points into LinkedIn-style posts.
 
-This project helped me understand how AI tools can be used to make content creation easier, faster, and more structured.
+This project helped me understand how AI can be used in a practical way to make content creation easier and more structured.
 
-**Tech/Focus:** Python, FastAPI, Vite, Google Gemini AI, Content Generation
+**Tech/Focus:** Python, FastAPI, Vite, Gemini AI, Content Generation
 
 ---
 
 ### ATM Detection
 A computer vision project for detecting ATM machines using YOLOv9.
 
-This project helped me learn more about object detection, dataset preparation, model training, and working with notebooks in Google Colab.
+Through this project, I worked on object detection, dataset preparation, model training, and using Google Colab for ML experiments.
 
-**Tech/Focus:** YOLOv9, Computer Vision, Object Detection, Jupyter Notebook, Machine Learning
+**Tech/Focus:** YOLOv9, Computer Vision, Object Detection, Jupyter Notebook
 
 ---
 
-### Reservation Scheduling Management System for SMSV Restaurant
-A web-based restaurant reservation and scheduling system created to manage table bookings and availability in a more organized way.
+### Reservation Scheduling Management System
+A web-based system created for managing restaurant reservations and scheduling.
 
-**Tech/Focus:** HTML, Web Development, Reservation Management, Scheduling
+**Tech/Focus:** HTML, Web Development, Reservation Management
 
 ---
 
 ### Student Lifestyle Academic Performance EDA
-An exploratory data analysis project that studies how factors like study habits, sleep, attendance, stress, and screen time can affect academic performance.
+An exploratory data analysis project based on student lifestyle and academic performance data.
 
-This project helped me practice data analysis, visualization, and finding useful patterns from a dataset.
+The project focuses on understanding how factors like study time, sleep, stress, attendance, and screen time can affect academic performance.
 
-**Tech/Focus:** EDA, Excel, Data Analysis, Visualization, Academic Performance
+**Tech/Focus:** EDA, Data Analysis, Visualization, Academic Performance
 
 ---
 
-### Vrunda Store Annual Report - Excel Data Analytics Project
-An Excel-based data analytics project with data cleaning, processing, pivot tables, slicers, and an interactive dashboard.
+### Vrunda Store Annual Report - Excel Project
+An Excel analytics project where I worked on data cleaning, pivot tables, slicers, and dashboard creation.
 
-This project helped me understand how Excel can be used for business reporting and dashboard creation.
+This project helped me understand how Excel is used for business reporting and basic decision-making.
 
 **Tech/Focus:** Excel, Pivot Tables, Slicers, Dashboard, Data Analytics
 
 ---
 
 ### College Management Dashboard - Power BI
-A Power BI dashboard project focused on college management data such as students, departments, attendance, fees, and performance KPIs.
-
-This project helped me practice dashboard design and KPI-based reporting.
+A Power BI dashboard project focused on college-related data and KPIs.
 
 **Tech/Focus:** Power BI, Dashboard Design, KPIs, Data Visualization
 
 ---
 
-### Standard Store Sales Power BI Project
-A Power BI sales dashboard project focused on analyzing store sales data and presenting business insights through interactive visuals.
+### Standard Store Sales - Power BI
+A sales dashboard project created in Power BI to analyze store sales performance.
 
-**Tech/Focus:** Power BI, Sales Analysis, DAX, Dashboard, Business Insights
+**Tech/Focus:** Power BI, Sales Analysis, Dashboard, Business Insights
 
 ---
 
-### Keshav Ecommerce Sales Power BI
-A beginner-friendly Power BI project based on e-commerce sales data.
+### Keshav Ecommerce Sales - Power BI
+A beginner-friendly Power BI dashboard based on e-commerce sales data.
 
-This project helped me understand basic dashboard building, slicers, KPIs, and sales performance analysis.
+This project helped me practice KPIs, slicers, charts, and basic sales analysis.
 
-**Tech/Focus:** Power BI, E-commerce, Dashboard, Data Analytics
+**Tech/Focus:** Power BI, E-commerce Sales, Dashboard, Data Analytics
+
+---
+
+### Sahas Hackcrypt
+A JavaScript-based project created while learning and experimenting with web technologies.
+
+**Tech/Focus:** JavaScript, Web Development
 
 ---
 
@@ -121,7 +110,7 @@ This project helped me understand basic dashboard building, slicers, KPIs, and s
 
 - Power BI dashboard design
 - SQL for data analysis
-- Excel for reporting and analytics
+- Excel for analytics and reporting
 - Python for data analysis
 - Data visualization and storytelling
 - Basics of machine learning and computer vision
@@ -130,9 +119,9 @@ This project helped me understand basic dashboard building, slicers, KPIs, and s
 
 ## Current Focus
 
-At this stage, my main focus is to build a strong project-based portfolio and improve my practical skills through hands-on work.
+Right now, my main focus is to build a clean and practical project portfolio.
 
-I am especially interested in:
+I’m especially interested in:
 
 - Data Analytics
 - Business Analytics
@@ -152,8 +141,8 @@ I am especially interested in:
 
 ## Connect With Me
 
-- GitHub: [Sahas-2417](https://github.com/Sahas-2417)
-- LinkedIn: [Sahas Bochare](https://www.linkedin.com/in/sahasbochare)
+- GitHub: Sahas-2417
+- LinkedIn: Add your LinkedIn profile link here
 
 ---
 
