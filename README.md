@@ -126,11 +126,11 @@ I’m especially interested in:
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight" alt="Sahas's GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-2417&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
