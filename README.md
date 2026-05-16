@@ -124,18 +124,6 @@ I’m especially interested in:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight" alt="Sahas's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-2417&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## Connect With Me
 
 - GitHub: [Sahas-2417](https://github.com/Sahas-2417)
