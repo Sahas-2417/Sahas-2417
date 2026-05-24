@@ -51,6 +51,10 @@ A heritage-tech project dedicated to preserving and showcasing the glorious hist
 📍 Featured Forts:
 Raigad, Rajgad, Torna, Sinhagad, Pratapgad, Shivneri & more.
 
+<p align="center">
+  <img src="https://your-banner-image-link-here" width="100%" />
+</p>
+
 ## Projects
 
 ### AuraWrite AI
