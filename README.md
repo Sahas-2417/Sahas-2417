@@ -31,6 +31,26 @@ Communication, Teamwork, Community Management, Event Coordination, Planning and 
 
 ---
 
+## 🚩 Featured Project
+
+### 🏰 Swarajya Trails
+> Explore the forts, stories, and sacrifices that shaped Swarajya.
+
+A heritage-tech project dedicated to preserving and showcasing the glorious history of Chhatrapati Shivaji Maharaj, Sambhaji Maharaj, and the Maratha Swarajya through an interactive web experience.
+
+✨ Features:
+- Detailed information about historic forts
+- Stories of bravery and sacrifice
+- Travel guidance & fort locations
+- Historical awareness for youth
+- Responsive and modern UI
+
+🛠️ Tech Stack:
+`HTML` `CSS` `JavaScript` `Python` `DBMS`
+
+📍 Featured Forts:
+Raigad, Rajgad, Torna, Sinhagad, Pratapgad, Shivneri & more.
+
 ## Projects
 
 ### AuraWrite AI
