@@ -37,6 +37,7 @@ Communication, Teamwork, Community Management, Event Coordination, Planning and 
 
 <img width="1896" height="867" alt="01_Swarajya_Trails_Home" src="https://github.com/user-attachments/assets/3c531070-ed40-45c6-af52-3279e532ecfa" />
 
+
 > Explore the forts, stories, and sacrifices that shaped Swarajya.
 
 A heritage-tech project dedicated to preserving and showcasing the glorious history of Chhatrapati Shivaji Maharaj, Sambhaji Maharaj, and the Maratha Swarajya through an interactive web experience.
@@ -54,9 +55,6 @@ A heritage-tech project dedicated to preserving and showcasing the glorious hist
 📍 Featured Forts:
 Raigad, Rajgad, Torna, Sinhagad, Pratapgad, Shivneri & more.
 
-<p align="center">
-  <img src="https://your-banner-image-link-here" width="100%" />
-</p>
 
 ## Projects
 
