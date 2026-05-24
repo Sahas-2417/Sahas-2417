@@ -50,7 +50,7 @@ A heritage-tech project dedicated to preserving and showcasing the glorious hist
 - Responsive and modern UI
 
 🛠️ Tech Stack:
-`HTML` `CSS` `JavaScript` `Python` `DBMS`
+`React.js` `Vite` `JavaScript` `HTML5` `CSS3`
 
 📍 Featured Forts:
 Raigad, Rajgad, Torna, Sinhagad, Pratapgad, Shivneri & more.
