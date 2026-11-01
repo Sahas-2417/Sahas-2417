@@ -45,7 +45,7 @@ Alongside technology, I actively contribute to **developer communities, student 
 
 # ⭐ Featured Projects
 
-## 🤖 AuraWrite AI
+## 🤖 [AuraWrite AI](https://github.com/Sahas-2417/AuraWrite-AI)
 
 An AI-powered writing assistant designed to transform simple ideas and bullet points into polished, professional content.
 
@@ -53,9 +53,9 @@ An AI-powered writing assistant designed to transform simple ideas and bullet po
 
 ---
 
-## 🛡️ AI Consent Guardian
+## 🛡️ [AI Consent Guardian](https://github.com/Sahas-2417/AI-Consent-Guardian)
 
-An AI-powered privacy assistant that helps users understand **Privacy Policies and Terms & Conditions** by summarizing what data is collected, how it may be shared, and what permissions users are granting.
+An AI-powered privacy assistant that helps users understand Privacy Policies and Terms & Conditions by summarizing what data is collected, how it may be shared, and what permissions users are granting.
 
 Built around the idea of making digital consent more understandable and informed.
 
@@ -63,9 +63,9 @@ Built around the idea of making digital consent more understandable and informed
 
 ---
 
-## 🏰 Swarajya Trails
+## 🏰 [Swarajya Trails](https://github.com/Sahas-2417/Swarajya-Trails)
 
-A heritage-tech platform created to showcase the forts, stories and legacy of **Maratha Swarajya** through an interactive digital experience.
+A heritage-tech platform created to showcase the forts, stories and legacy of Maratha Swarajya through an interactive digital experience.
 
 The project combines technology with historical storytelling to make heritage more accessible to younger audiences.
 
@@ -73,9 +73,9 @@ The project combines technology with historical storytelling to make heritage mo
 
 ---
 
-## 🌦️ Weather Data Analysis & Prediction
+## 🌦️ [Weather Data Analysis & Prediction](https://github.com/Sahas-2417/Weather-Data-Analysis-and-Prediction)
 
-A data analytics and machine learning project focused on analyzing weather patterns and building predictive insights from historical weather data.
+Analyzed historical weather data to identify patterns, trends and relationships while building predictive insights using machine learning.
 
 **Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Machine Learning` `Google Colab`
 
@@ -91,42 +91,11 @@ A Natural Language Processing project that analyzes Twitter data and classifies 
 
 ## 👁️ ATM Detection
 
-A computer vision project focused on detecting ATM machines using **YOLOv9** and a custom dataset.
+A computer vision project focused on detecting ATM machines using YOLOv9 and a custom dataset.
 
 Worked on dataset preparation, training, testing and object-detection workflows.
 
 **Tech:** `YOLOv9` `Python` `Computer Vision` `Jupyter Notebook` `Google Colab`
-
----
-
-# 📊 Data Analytics Projects
-
-### 📈 Standard Store Sales — Power BI
-Interactive sales dashboard focused on KPIs, sales performance and business insights.
-
-**Tech:** `Power BI` `DAX` `Data Visualization`
-
-### 🛒 Keshav E-Commerce Sales — Power BI
-E-commerce sales analysis dashboard exploring KPIs, product performance and sales trends.
-
-**Tech:** `Power BI` `DAX` `Data Analytics`
-
-### 🏫 College Management Dashboard — Power BI
-Dashboard designed to visualize college-related data and key performance indicators.
-
-**Tech:** `Power BI` `Dashboard Design` `KPIs`
-
-### 📊 Vrunda Store Annual Report — Excel
-End-to-end Excel analytics project involving data cleaning, pivot tables, slicers and interactive reporting.
-
-**Tech:** `Microsoft Excel` `Pivot Tables` `Slicers` `Dashboard`
-
-### 🎓 Student Lifestyle & Academic Performance — EDA
-Exploratory data analysis project studying relationships between lifestyle factors and academic performance.
-
-**Tech:** `Python` `Pandas` `EDA` `Data Visualization`
-
----
 
 # 💼 Experience & Programs
 
