@@ -175,24 +175,6 @@ Contributing to entrepreneurship-focused campus initiatives, events, student eng
 
 ---
 
-# 🧰 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,vite,fastapi,flask,mysql,git,github,vscode" />
-
-</p>
-
-### Data & Analytics
-
-`Power BI` • `Excel` • `SQL` • `Pandas` • `NumPy` • `Matplotlib`
-
-### AI & ML
-
-`Machine Learning` • `NLP` • `Computer Vision` • `YOLOv9` • `Gemini AI`
-
----
-
 # 📚 Currently Exploring
 
 - 📊 Advanced Data Analytics & Business Intelligence
