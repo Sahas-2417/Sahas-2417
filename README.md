@@ -202,11 +202,12 @@ I want to build solutions that don't just work technically — but also **solve 
 # 📈 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahas-2417&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahas-2417&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-2417&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
