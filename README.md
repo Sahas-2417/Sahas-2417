@@ -24,22 +24,22 @@ Alongside technology, I actively contribute to **developer communities, student 
 
 ---
 
-## 🧠 Areas I Work In
+## 🧠 What I Work With
 
 ### 📊 Data & Business Analytics
-`Python` `SQL` `Excel` `Power BI` `EDA` `Data Cleaning` `Data Visualization` `Dashboard Development` `Business Insights`
+`Python` `SQL` `Excel` `Power BI` `Pandas` `NumPy` `Matplotlib` `EDA` `Data Visualization`
 
 ### 🤖 AI / Machine Learning
-`Python` `Machine Learning` `Computer Vision` `YOLOv9` `Gemini AI` `LLM Applications` `Model Training`
+`Machine Learning` `NLP` `Computer Vision` `YOLOv9` `Gemini AI` `LLM Applications`
 
 ### 🌐 Development
 `HTML` `CSS` `JavaScript` `React.js` `Vite` `FastAPI` `Flask`
 
 ### 🛠️ Tools & Platforms
-`Git` `GitHub` `Google Colab` `Power BI` `Microsoft Excel` `Vercel` `Canva`
+`Git` `GitHub` `Google Colab` `Vercel` `Canva`
 
 ### 🤝 Leadership & Community
-`Community Building` `Marketing` `Event Management` `Team Coordination` `Communication` `Planning & Execution`
+`Community Building` `Marketing` `Event Management` `Team Coordination` `Communication`
 
 ---
 
