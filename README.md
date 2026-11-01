@@ -1,159 +1,252 @@
-# Hi, I'm Sahas 👋
+# Hi, I'm Sahas Bochare 👋
 
-I'm a third-year IT undergraduate currently learning and building projects in data analytics, business intelligence, and practical tech.
+### IT Engineering Student • Data & Business Analytics • AI/ML • Community Builder
 
-Most of my work is around Power BI dashboards, Excel analytics, EDA, Python, and a few web-based projects. I like learning by building small but useful projects instead of only studying concepts theoretically.
+I'm a **Third-Year Information Technology Engineering student** passionate about turning ideas into practical projects across **Data Analytics, Business Intelligence, AI/ML, and Web Development**.
 
-Right now, I'm focusing on improving my GitHub profile, writing better project documentation, and building a stronger portfolio for internships and entry-level analytics roles.
+I enjoy learning by building — from interactive dashboards and data analysis projects to AI-powered applications and computer vision systems.
 
----
-
-## About Me
-
-- 🎓 Third-year IT undergraduate
-- 📊 Interested in Data Analytics, Business Analytics, and Business Intelligence
-- 🛠️ Working with Power BI, Excel, SQL, Python, and dashboard design
-- 📁 Building projects using real datasets and practical use cases
-- 🤝 Open to internships, collaborations, and learning opportunities
+Alongside technology, I actively contribute to **developer communities, student programs, and campus initiatives**, where I work on community building, marketing, event coordination, and leadership.
 
 ---
 
-## Skills & Tools
+## 🚀 What I'm Up To
 
-**Data & Analytics:**  
-Excel, Power BI, SQL, Data Cleaning, Data Visualization, EDA, Dashboard Development, Business Insights
-
-**Programming & Tech:**  
-Python, JavaScript, HTML, FastAPI, Google Colab, GitHub
-
-**Other Skills:**  
-Communication, Teamwork, Community Management, Event Coordination, Planning and Execution
-
----
-
-## 🚩 Featured Project
-
-### 🏰 Swarajya Trails
-
-<img width="1896" height="867" alt="01_Swarajya_Trails_Home" src="https://github.com/user-attachments/assets/3c531070-ed40-45c6-af52-3279e532ecfa" />
-
-
-> Explore the forts, stories, and sacrifices that shaped Swarajya.
-
-A heritage-tech project dedicated to preserving and showcasing the glorious history of Chhatrapati Shivaji Maharaj, Sambhaji Maharaj, and the Maratha Swarajya through an interactive web experience.
-
-✨ Features:
-- Detailed information about historic forts
-- Stories of bravery and sacrifice
-- Travel guidance & fort locations
-- Historical awareness for youth
-- Responsive and modern UI
-
-🛠️ Tech Stack:
-`React.js` `Vite` `JavaScript` `HTML5` `CSS3`
-
-📍 Featured Forts:
-Raigad, Rajgad, Torna, Sinhagad, Pratapgad, Shivneri & more.
-
-
-## Projects
-
-### AuraWrite AI
-An AI-based writing assistant that helps users turn simple bullet points into LinkedIn-style posts.
-
-This project helped me understand how AI can be used in a practical way to make content creation easier and more structured.
-
-**Tech/Focus:** Python, FastAPI, Vite, Gemini AI, Content Generation
+- 🎓 Pursuing **B.E. in Information Technology** — Graduation: **2028**
+- 📊 Building projects around **Data Analytics & Business Intelligence**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Computer Vision**
+- 🌐 Building practical **web applications and AI-powered tools**
+- 🧑‍💻 **Google Student Ambassador 2026**
+- ☁️ **AWS Student Builder Campus Leader**
+- 🌐 **GDGoC Organizer — 2026–27**
+- 💼 Experienced through internships in **Data Analytics, AI/ML & Computer Vision**
+- 🏗️ Constantly building, documenting and improving real-world projects
 
 ---
 
-### ATM Detection
-A computer vision project for detecting ATM machines using YOLOv9.
+## 🧠 Areas I Work In
 
-Through this project, I worked on object detection, dataset preparation, model training, and using Google Colab for ML experiments.
+### 📊 Data & Business Analytics
+`Python` `SQL` `Excel` `Power BI` `EDA` `Data Cleaning` `Data Visualization` `Dashboard Development` `Business Insights`
 
-**Tech/Focus:** YOLOv9, Computer Vision, Object Detection, Jupyter Notebook
+### 🤖 AI / Machine Learning
+`Python` `Machine Learning` `Computer Vision` `YOLOv9` `Gemini AI` `LLM Applications` `Model Training`
 
----
+### 🌐 Development
+`HTML` `CSS` `JavaScript` `React.js` `Vite` `FastAPI` `Flask`
 
-### Reservation Scheduling Management System
-A web-based system created for managing restaurant reservations and scheduling.
+### 🛠️ Tools & Platforms
+`Git` `GitHub` `Google Colab` `Power BI` `Microsoft Excel` `Vercel` `Canva`
 
-**Tech/Focus:** HTML, Web Development, Reservation Management
-
----
-
-### Student Lifestyle Academic Performance EDA
-An exploratory data analysis project based on student lifestyle and academic performance data.
-
-The project focuses on understanding how factors like study time, sleep, stress, attendance, and screen time can affect academic performance.
-
-**Tech/Focus:** EDA, Data Analysis, Visualization, Academic Performance
+### 🤝 Leadership & Community
+`Community Building` `Marketing` `Event Management` `Team Coordination` `Communication` `Planning & Execution`
 
 ---
 
-### Vrunda Store Annual Report - Excel Project
-An Excel analytics project where I worked on data cleaning, pivot tables, slicers, and dashboard creation.
+# ⭐ Featured Projects
 
-This project helped me understand how Excel is used for business reporting and basic decision-making.
+## 🤖 AuraWrite AI
 
-**Tech/Focus:** Excel, Pivot Tables, Slicers, Dashboard, Data Analytics
+An AI-powered writing assistant designed to transform simple ideas and bullet points into polished, professional content.
 
----
-
-### College Management Dashboard - Power BI
-A Power BI dashboard project focused on college-related data and KPIs.
-
-**Tech/Focus:** Power BI, Dashboard Design, KPIs, Data Visualization
+**Tech:** `Python` `FastAPI` `Vite` `Gemini AI`
 
 ---
 
-### Standard Store Sales - Power BI
-A sales dashboard project created in Power BI to analyze store sales performance.
+## 🛡️ AI Consent Guardian
 
-**Tech/Focus:** Power BI, Sales Analysis, Dashboard, Business Insights
+An AI-powered privacy assistant that helps users understand **Privacy Policies and Terms & Conditions** by summarizing what data is collected, how it may be shared, and what permissions users are granting.
 
----
+Built around the idea of making digital consent more understandable and informed.
 
-### Keshav Ecommerce Sales - Power BI
-A beginner-friendly Power BI dashboard based on e-commerce sales data.
-
-This project helped me practice KPIs, slicers, charts, and basic sales analysis.
-
-**Tech/Focus:** Power BI, E-commerce Sales, Dashboard, Data Analytics
+**Tech:** `Python` `Flask` `Gemini AI` `HTML` `CSS` `JavaScript` `Vercel`
 
 ---
 
-## Currently Learning
+## 🏰 Swarajya Trails
 
-- Power BI dashboard design
-- SQL for data analysis
-- Excel for analytics and reporting
-- Python for data analysis
-- Data visualization and storytelling
-- Basics of machine learning and computer vision
+A heritage-tech platform created to showcase the forts, stories and legacy of **Maratha Swarajya** through an interactive digital experience.
 
----
+The project combines technology with historical storytelling to make heritage more accessible to younger audiences.
 
-## Current Focus
-
-Right now, my main focus is to build a clean and practical project portfolio.
-
-I’m especially interested in:
-
-- Data Analytics
-- Business Analytics
-- Business Intelligence
-- Dashboard Development
-- Python-based analytics projects
+**Tech:** `React.js` `Vite` `JavaScript` `HTML5` `CSS3`
 
 ---
 
-## Connect With Me
+## 🌦️ Weather Data Analysis & Prediction
 
-- GitHub: [Sahas-2417](https://github.com/Sahas-2417)
-- LinkedIn: [Sahas Bochare](https://www.linkedin.com/in/sahasbochare)
+A data analytics and machine learning project focused on analyzing weather patterns and building predictive insights from historical weather data.
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Machine Learning` `Google Colab`
 
 ---
 
-Thanks for visiting my profile!
+## 🐦 Twitter Sentiment Analysis
+
+A Natural Language Processing project that analyzes Twitter data and classifies sentiment to derive meaningful insights from textual data.
+
+**Tech:** `Python` `NLP` `Data Analysis` `Machine Learning`
+
+---
+
+## 👁️ ATM Detection
+
+A computer vision project focused on detecting ATM machines using **YOLOv9** and a custom dataset.
+
+Worked on dataset preparation, training, testing and object-detection workflows.
+
+**Tech:** `YOLOv9` `Python` `Computer Vision` `Jupyter Notebook` `Google Colab`
+
+---
+
+# 📊 Data Analytics Projects
+
+### 📈 Standard Store Sales — Power BI
+Interactive sales dashboard focused on KPIs, sales performance and business insights.
+
+**Tech:** `Power BI` `DAX` `Data Visualization`
+
+### 🛒 Keshav E-Commerce Sales — Power BI
+E-commerce sales analysis dashboard exploring KPIs, product performance and sales trends.
+
+**Tech:** `Power BI` `DAX` `Data Analytics`
+
+### 🏫 College Management Dashboard — Power BI
+Dashboard designed to visualize college-related data and key performance indicators.
+
+**Tech:** `Power BI` `Dashboard Design` `KPIs`
+
+### 📊 Vrunda Store Annual Report — Excel
+End-to-end Excel analytics project involving data cleaning, pivot tables, slicers and interactive reporting.
+
+**Tech:** `Microsoft Excel` `Pivot Tables` `Slicers` `Dashboard`
+
+### 🎓 Student Lifestyle & Academic Performance — EDA
+Exploratory data analysis project studying relationships between lifestyle factors and academic performance.
+
+**Tech:** `Python` `Pandas` `EDA` `Data Visualization`
+
+---
+
+# 💼 Experience & Programs
+
+### 📊 Cinute Digital Pvt. Ltd.
+**Data Analytics Intern**
+
+Worked on practical data analytics workflows and analytical problem-solving.
+
+### 🤖 Codec Technologies
+**AI/ML Intern**
+
+Worked on machine learning projects including:
+
+- Weather Data Analysis & Prediction
+- Twitter Sentiment Analysis
+
+### 👁️ YOLOvX Vision Technology
+**Computer Vision Intern**
+
+Worked on an ATM detection project using YOLO-based object detection.
+
+### 🤖 Future Interns
+**Machine Learning Intern**
+
+Worked on practical machine learning concepts and project-based learning.
+
+---
+
+# 🌐 Leadership & Community
+
+### 🟦 Google Student Ambassador — 2026
+
+Selected as a **Google Student Ambassador**, contributing to student engagement, awareness and technology-focused community initiatives.
+
+### ☁️ AWS Student Builder Campus Leader
+
+Selected as an **AWS Student Builder Campus Leader**, helping students discover and engage with developer resources, learning opportunities and the broader builder community.
+
+### 🌐 GDGoC Organizer — 2026–27
+
+Serving as an **Organizer for Google Developer Groups on Campus**, contributing to developer community building, events, outreach, marketing and student engagement.
+
+### 🚀 E-Cell — Vice President
+
+Contributing to entrepreneurship-focused campus initiatives, events, student engagement and community activities.
+
+---
+
+# 🧰 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,vite,fastapi,flask,mysql,git,github,vscode" />
+
+</p>
+
+### Data & Analytics
+
+`Power BI` • `Excel` • `SQL` • `Pandas` • `NumPy` • `Matplotlib`
+
+### AI & ML
+
+`Machine Learning` • `NLP` • `Computer Vision` • `YOLOv9` • `Gemini AI`
+
+---
+
+# 📚 Currently Exploring
+
+- 📊 Advanced Data Analytics & Business Intelligence
+- 🧮 SQL & analytical problem solving
+- 🐍 Python for analytics and automation
+- 🤖 Machine Learning & AI applications
+- 👁️ Computer Vision
+- 🌐 Full-stack & AI-powered web applications
+- 📈 Data storytelling and dashboard design
+
+---
+
+# 🎯 My Current Direction
+
+I'm particularly interested in opportunities where **technology meets data and business problems**.
+
+### Areas I'm targeting:
+
+`Data Analyst` • `Business Analyst` • `Business Intelligence` • `AI/ML` • `Data-driven Product Development`
+
+I want to build solutions that don't just work technically — but also **solve a real problem and communicate meaningful insights.**
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sahas-2417&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahas-2417&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to **collaborations, technology communities, interesting projects and learning opportunities.**
+
+<p align="left">
+
+<a href="https://github.com/Sahas-2417">
+<img src="https://img.shields.io/badge/GitHub-Sahas--2417-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sahasbochare/">
+<img src="https://img.shields.io/badge/LinkedIn-Sahas%20Bochare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 💡 Build. Analyze. Learn. Lead.
+
+**Thanks for visiting my profile! ⭐**
