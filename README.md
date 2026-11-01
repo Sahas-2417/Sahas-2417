@@ -230,6 +230,8 @@ I'm always open to **collaborations, technology communities, interesting project
 
 ---
 
-### 💡 Build. Analyze. Learn. Lead.
+### 🚀 Building with Data. Creating with AI. Leading Communities.
 
-**Thanks for visiting my profile! ⭐**
+Thanks for stopping by! ⭐
+
+If you find something interesting here, feel free to explore the repositories, connect with me, or build something together.
