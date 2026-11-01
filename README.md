@@ -97,6 +97,37 @@ Worked on dataset preparation, training, testing and object-detection workflows.
 
 **Tech:** `YOLOv9` `Python` `Computer Vision` `Jupyter Notebook` `Google Colab`
 
+---
+
+# 📊 Data Analytics Projects
+
+### 📈 Standard Store Sales — Power BI
+Interactive sales dashboard focused on KPIs, sales performance, business trends and actionable insights.
+
+**Tech:** `Power BI` `DAX` `Data Visualization`
+
+### 🛒 Keshav E-Commerce Sales — Power BI
+E-commerce sales analysis dashboard exploring KPIs, product performance, sales trends and business performance.
+
+**Tech:** `Power BI` `DAX` `Data Analytics`
+
+### 🏫 College Management Dashboard — Power BI
+Interactive dashboard designed to visualize college data and key performance indicators.
+
+**Tech:** `Power BI` `Dashboard Design` `KPIs`
+
+### 📊 Vrunda Store Annual Report — Excel
+End-to-end Excel analytics project involving data cleaning, pivot tables, slicers and interactive reporting.
+
+**Tech:** `Microsoft Excel` `Pivot Tables` `Slicers` `Dashboard`
+
+### 🎓 Student Lifestyle & Academic Performance — EDA
+Exploratory data analysis project studying relationships between lifestyle factors and academic performance.
+
+**Tech:** `Python` `Pandas` `EDA` `Data Visualization`
+
+---
+
 # 💼 Experience & Programs
 
 ### 📊 Cinute Digital Pvt. Ltd.
