@@ -81,7 +81,7 @@ Analyzed historical weather data to identify patterns, trends and relationships 
 
 ---
 
-## 🐦 Twitter Sentiment Analysis
+## 🐦 [Twitter Sentiment Analysis](https://github.com/Sahas-2417/Twitter-Sentiment-Analysis)
 
 A Natural Language Processing project that analyzes Twitter data and classifies sentiment to derive meaningful insights from textual data.
 
@@ -89,7 +89,7 @@ A Natural Language Processing project that analyzes Twitter data and classifies 
 
 ---
 
-## 👁️ ATM Detection
+## 👁️ [ATM Detection](https://github.com/Sahas-2417/ATM-Detection)
 
 A computer vision project focused on detecting ATM machines using YOLOv9 and a custom dataset.
 
