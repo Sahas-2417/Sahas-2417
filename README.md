@@ -12,7 +12,7 @@ Alongside technology, I actively contribute to **developer communities, student 
 
 ## 🚀 What I'm Up To
 
-- 🎓 Pursuing **B.E. in Information Technology** — Graduation: **2028**
+- 🎓 Pursuing **B. Tech in Information Technology** — Graduation: **2028**
 - 📊 Building projects around **Data Analytics & Business Intelligence**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Computer Vision**
 - 🌐 Building practical **web applications and AI-powered tools**
